@@ -1,3 +1,3 @@
 # SentimentAnalysis
 
-You can view the file by clicking here: https://github.com/carolinefarrell1/SentimentAnalysis/blob/main/Lab2Unstruct.html 
+You can view the file by clicking here: file:///Users/carolinefarrell/Downloads/Lab2Unstruct%20(3).html
